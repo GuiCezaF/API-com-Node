@@ -1,7 +1,7 @@
 # API feita com Node
 
 <h3> Tecnologias utilizadas </h3>
-- NodeJs
+- NodeJs <br/>
 - MongoDB
 
 <h3> Foi estudado os seguintes conteudos </h3>
