@@ -6,12 +6,12 @@
 
 <h3> Foi estudado os seguintes conteudos </h3>
 - CRUD REST <br/>
-- Mongooose
-- MongoDb Setup
-- Async/Await
-- Autorização
-- Autenticação
-- Enviando E-mail de Boas Vindas
-- Rotas
-- Criando um servidor Web
+- Mongooose <br/>
+- MongoDb Setup <br/>
+- Async/Await <br/>
+- Autorização <br/>
+- Autenticação <br/>
+- Enviando E-mail de Boas Vindas <br/>
+- Rotas <br/>
+- Criando um servidor Web <br/>
 - Normalizando a porta
