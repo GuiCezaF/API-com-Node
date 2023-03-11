@@ -8,7 +8,7 @@ const app = express();
 const router = express.Router();
 
 // Conecta ao banco de dados
-mongoose.connect('mongodb+srv://guicezafe:gui130104@ndstr.hoqsak4.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect('Your MongoDB URL')
 
 // Carrega os models
 const Product = require('./models/product')
