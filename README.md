@@ -15,5 +15,5 @@
 - Enviando E-mail de Boas Vindas <br/>
 - Rotas <br/>
 - Criando um servidor Web <br/>
-- Normalizando a porta
+- Normalizando a porta <br/>
 - Azure
