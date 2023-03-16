@@ -2,7 +2,7 @@
 
 <h3> Tecnologias utilizadas </h3>
 - NodeJs <br/>
-- MongoDB
+- MongoDB <br/>
 - Azure
 
 <h3> Foi estudado os seguintes conteudos </h3>
