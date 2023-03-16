@@ -3,6 +3,7 @@
 <h3> Tecnologias utilizadas </h3>
 - NodeJs <br/>
 - MongoDB
+- Azure
 
 <h3> Foi estudado os seguintes conteudos </h3>
 - CRUD REST <br/>
@@ -15,3 +16,4 @@
 - Rotas <br/>
 - Criando um servidor Web <br/>
 - Normalizando a porta
+- Azure
